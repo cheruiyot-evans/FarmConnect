@@ -183,7 +183,7 @@ FarmConnect/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/FarmConnect.git
+git clone https://github.com/cheruiyot-evans/FarmConnect.git
 cd FarmConnect
 ```
 
